@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Hackers" ] },
+    "summary": { "en": [ "Annotating a clip from the 1995 movie Hackers" ] },
+    "items": [
+    ]
+}
